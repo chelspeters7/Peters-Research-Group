@@ -1,12 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+widget_id: "1"
 headless: true
 weight: 20
-
 title: Latest News
-subtitle:
-
+subtitle: Graduate Lucy Perry shares her research
+active: true
 content:
   count: 5
   filters:
@@ -22,3 +21,4 @@ design:
   view: 3
   columns: "1"
 ---
+https://www.youtube.com/watch?v=lDyN8Jv3AAw
