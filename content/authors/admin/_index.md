@@ -1,7 +1,7 @@
 ---
 title: Chelsea Peters
 role: Assistant Professor of Environmental Studies
-avatar_filename: headshot.jpg
+avatar_filename: headshot_mini.jpg
 bio: "My research interests include water management, hydrological climate
   change impacts, and science communication. "
 interests: []
