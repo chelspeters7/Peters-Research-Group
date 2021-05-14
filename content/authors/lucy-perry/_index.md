@@ -1,7 +1,7 @@
 ---
 title: Lucy Perry
 role: Alumi
-avatar_filename: lucyperry.jpg
+avatar_filename: lucyperrymini.jpg
 social: []
 superuser: false
 ---
