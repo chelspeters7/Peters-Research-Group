@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: /static/media/bangladesh144.jpg
+    image: /static/media/bangladeshshrimp.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
