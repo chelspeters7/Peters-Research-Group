@@ -33,7 +33,7 @@ publication: Groundwater
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: https://ngwa.onlinelibrary.wiley.com/doi/pdf/10.1111/gwat.12937?casa_token=uUNGGw1dsYQAAAAA:NjZUCZFNdgmBll-8ICe1ANnZnxHVw5JGzk0wVZa9tnpaO5ZT9JrZURZpiKExF_0vxrri-TUL-tAHNdk
 url_source: ""
 url_video: ""
 title: A Search for Freshwater in the Saline Aquifer of Coastal Bangladesh,
@@ -45,11 +45,11 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: me-and-my-village-friends.jpg
 date: 2021-05-14T22:30:27.858Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
