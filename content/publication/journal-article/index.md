@@ -23,7 +23,7 @@ abstract: "In the polder region of coastal Bangladesh, shallow groundwater is
   however, communities will be better equipped to redirect water management
   resources to more feasible and sustainable drinking water options."
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ngwa.onlinelibrary.wiley.com/doi/pdf/10.1111/gwat.12937?casa_token=9wKVGNP4AXQAAAAA:-_v3fnkH3yF3v3CJb_lkFRSx7pO9KmW930Ow6R6IykwyqXbkVYDLQy98tZHXwF5bk8ieDuo7rS57x2s
 publication_types:
   - "2"
 authors:
@@ -46,7 +46,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-  filename: featured.JPG
+  filename: contact.JPG
 date: 2021-05-14T22:30:27.858Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
