@@ -46,7 +46,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-  filename: me-and-my-village-friends.jpg
+  filename: featured.JPG
 date: 2021-05-14T22:30:27.858Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
