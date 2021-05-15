@@ -9,9 +9,9 @@ title: null
 subtitle: null
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
-    image: BangladeshShrimp.jpg
+    image: /static/media/pointingflir.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
@@ -24,3 +24,4 @@ design:
       - 20px
       - "0"
 ---
+Check out our nifty new tool---> A thermal camera to detect groundwater-surface water interactions!
