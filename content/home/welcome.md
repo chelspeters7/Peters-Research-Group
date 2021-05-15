@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: pointingFLIR.jpg
-hero_media: pointingFLIR.jpg
+    image: ""
+hero_media: ""
 ---
 We explore water and its many interactions with the environment!
