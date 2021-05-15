@@ -23,8 +23,3 @@ design:
   background:
     image: /static/media/pointingflir.jpg
 ---
-<!--StartFragment-->
-
-{{< figure src="pointingflir.jpg" caption="A caption" >}}
-
-<!--EndFragment-->
