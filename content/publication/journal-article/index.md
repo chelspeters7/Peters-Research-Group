@@ -36,7 +36,7 @@ url_project: ""
 publication_short: https://ngwa.onlinelibrary.wiley.com/doi/pdf/10.1111/gwat.12937?casa_token=uUNGGw1dsYQAAAAA:NjZUCZFNdgmBll-8ICe1ANnZnxHVw5JGzk0wVZa9tnpaO5ZT9JrZURZpiKExF_0vxrri-TUL-tAHNdk
 url_source: ""
 url_video: ""
-title: A Search for Freshwater in the Saline Aquifer of Coastal Bangladesh,
+title: A Search for Freshwater in the Saline Aquifer of Coastal Bangladesh
 doi: https://doi.org/10.1111/gwat.12937
 featured: false
 tags:
@@ -45,8 +45,8 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
-  filename: contact.JPG
+  preview_only: false
+  filename: featured.JPG
 date: 2021-05-14T22:30:27.858Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
