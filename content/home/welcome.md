@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: ""
+    image: Image (1).jpg
 hero_media: ""
 ---
 We explore water and its many interactions with the environment!
