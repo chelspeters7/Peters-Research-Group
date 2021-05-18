@@ -11,7 +11,7 @@ active: true
 design:
   columns: "2"
   background:
-    image: /static/media/pointingflir.jpg
+    image: /static/media/welcome.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
